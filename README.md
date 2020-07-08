@@ -17,5 +17,4 @@ Sam S.
 
 Steven J.
 
-<p align=center>
-[![Video](https://i.imgur.com/Lgsy3mJ.png)](https://www.youtube.com/watch?v=3QgNZmCqQaU&feature=youtu.be)<p>
+[![Video](http://img.youtube.com/vi/3QgNZmCqQaU/0.jpg)](https://www.youtube.com/watch?v=3QgNZmCqQaU "Video")
