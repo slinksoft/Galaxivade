@@ -12,8 +12,10 @@ Graphics and Sound: Namco
 Special Thanks:
 
 Matt G.
+
 Sam S.
+
 Steven J.
 
 <p align=center>
-<iframe width="1280" height="750" src="https://www.youtube.com/embed/3QgNZmCqQaU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><p>
+[![Video](https://i.imgur.com/Lgsy3mJ.png)](https://www.youtube.com/watch?v=3QgNZmCqQaU&feature=youtu.be)<p>
