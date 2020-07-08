@@ -6,7 +6,9 @@ This is my second Android game, Galaxivade. Similar to SpaceInvade v2, this game
 Credits:
 
 Developer: Slink (Dan)
+
 Font: Tsunanical
+
 Graphics and Sound: Namco
 
 Special Thanks:
